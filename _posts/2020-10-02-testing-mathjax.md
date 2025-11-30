@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-tags: Resume
+title: Organization
+tags: Organization
 math: true
 date: 2025-11-30 10:00 +0800
 ---
