@@ -1,6 +1,6 @@
 ---
 layout: post
-title: resume
+title: Resume
 tags: mathjax
 math: true
 date: 2025-11-30 10:00 +0800
