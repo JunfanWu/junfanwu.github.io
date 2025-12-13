@@ -12,7 +12,7 @@ No.1335 Cuihu 4th Road, 244061 Tongling, China.
 My Email:2209172027@mail.tlu.edu.cn
 
 ![image](photo/翠湖电子.jpg)
-
+![image](avatar.jpg)
 
 
 
