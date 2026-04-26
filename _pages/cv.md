@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Tongling,Anhui,China, Tongling University, 2026(expected)
+* B.E. in Tongling,Anhui,China, Tongling University, 2026
 
 Work experience
 ======
