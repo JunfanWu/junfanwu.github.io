@@ -2,7 +2,7 @@
 title: "A Hybrid Architecture Design for SM4 Algorithm Based on FPGA"
 collection: publications
 category: conferences
-permalink: /publication/A Hybrid Architecture Design for SM4 Algorithm Based on FPGA
+permalink: /publication/A-Hybrid-Architecture-Design-for-SM4-Algorithm-Based-on-FPGA
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-09-26
 venue: 'GitHub Journal of Bugs'
