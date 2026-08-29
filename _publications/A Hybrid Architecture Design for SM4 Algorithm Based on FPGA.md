@@ -3,11 +3,10 @@ title: "A Hybrid Architecture Design for SM4 Algorithm Based on FPGA"
 collection: publications
 category: conferences
 permalink: /publication/A-Hybrid-Architecture-Design-for-SM4-Algorithm-Based-on-FPGA
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper is about SM4 Algorithm Based on FPGA '
 date: 2025-09-26
-venue: 'GitHub Journal of Bugs'
+venue: '2025 18th International Conference on Advanced Computer Theory and Engineering (ICACTE)'
 paperurl: 'https://junfanwu.github.io/files/A Hybrid Architecture Design for SM4 Algorithm Based on FPGA.pdf'
-citation: 'Your Name, You. (2025). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'W. Wang, J. Wu, F. Du, Q. Wang, X. Zhang and P. Lu, "A Hybrid Architecture Design for SM4 Algorithm Based on FPGA," 2025 18th International Conference on Advanced Computer Theory and Engineering (ICACTE), Nanjing, China, 2025, pp. 166-170.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
