@@ -15,6 +15,7 @@ Education
 
 Work experience
 ======
+<!--
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -29,7 +30,8 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+-->  
+
 Skills
 ======
 * Skill 1
