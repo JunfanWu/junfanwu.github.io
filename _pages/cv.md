@@ -68,12 +68,13 @@ Awards and Honors
     * 2025一带一路暨金砖国家技能发展与技术创新大赛集成电路设计与应用赛项安徽赛区一等奖
     * 2025一带一路暨金砖国家技能发展与技术创新大赛集成电路设计与应用赛项全国总决赛三等奖
     * 2025年第九届全国大学生集成电路创新创业大赛（紫光教育杯）华中赛区三等奖
-
+<!--
 * 论文方面(Paper)：
    * W. Wang, J. Wu, F. Du, Q. Wang, X. Zhang and P. Lu, "A Hybrid Architecture Design for SM4 Algorithm Based on FPGA," 2025 18th International Conference on Advanced Computer Theory and Engineering (ICACTE), Nanjing, China, 2025, pp. 166-170, doi: 10.1109/ICACTE66284.2025.11412208.
 
 * 专利(Patent):
   * 集成电路布图设计登记证书 布图设计名称：精密电压控制振荡器 布图设计登记号：BS.255577583
+-->
 
 * 社会实践(Social practice)：
   * 2024年度“三下乡”社会实践全国重点团队：“桑源纸迹·非遗焕乡”实践团 核心成员
