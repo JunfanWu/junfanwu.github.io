@@ -74,6 +74,7 @@ Awards and Honors
 
 * 专利(Patent):
   * 集成电路布图设计登记证书 布图设计名称：精密电压控制振荡器 布图设计登记号：BS.255577583
+  
 -->
 
 * 社会实践(Social practice)：
