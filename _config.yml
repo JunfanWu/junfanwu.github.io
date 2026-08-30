@@ -68,7 +68,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : # https://space.bilibili.com/319282439
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  patent:
+    title: 'Patent'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
